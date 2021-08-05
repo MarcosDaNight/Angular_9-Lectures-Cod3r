@@ -1,0 +1,24 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Caneta CIS 0.7",
+      "price": 3.78
+    },
+    {
+      "id": 2,
+      "name": "Notebook Dell ll15",
+      "price": 6380.21
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi Note 10+",
+      "price": 1350.53
+    },
+    {
+      "id": 4,
+      "name": "Teclado k3",
+      "price": 285.98
+    }
+  ]
+}
