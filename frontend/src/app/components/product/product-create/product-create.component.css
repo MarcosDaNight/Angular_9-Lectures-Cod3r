@@ -1,3 +1,10 @@
-.blue {
-  color: blue;
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  margin: 15px 15px 0px 0px;
+  background-color: rgb(37, 80, 223);
+  color: white;
 }
