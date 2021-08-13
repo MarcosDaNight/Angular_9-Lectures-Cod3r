@@ -24,12 +24,12 @@ export class ProductDeleteComponent implements OnInit {
     });
   }
 
-  /*deleteProduct(): void {
-    this.productService.delete(this.product).subscribe(() => {
-      this.productService.showMessage('Product Removed Successufly!');
+  deleteProduct(): void {
+    this.productService.delete(this.product.id).subscribe(() => {
+      this.productService.showMessage('Product Deleted Successufly!');
       this.router.navigate(['/products']);
     })
-  }*/
+  }
 
   cancel(): void {
     this.router.navigate(['/products']);

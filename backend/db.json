@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta CIS 0.7",
-      "price": 3.78
-    },
-    {
       "id": 2,
       "name": "Notebook Dell ll15",
       "price": 6380.21
@@ -19,11 +14,6 @@
       "id": 4,
       "name": "Teclado k3",
       "price": 285.98
-    },
-    {
-      "name": "exemple",
-      "price": "123.2",
-      "id": 5
     }
   ]
 }
