@@ -1,4 +1,4 @@
-import { Product } from './../product-create/product.model';
+import { Product } from './../product.model';
 import { AfterViewInit, Component, ViewChild } from '@angular/core';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatSort } from '@angular/material/sort';

@@ -12,13 +12,18 @@
     },
     {
       "id": 3,
-      "name": "Xiaomi Note 10+",
+      "name": "Xiaomi Note 10+ PRO",
       "price": 1350.53
     },
     {
       "id": 4,
       "name": "Teclado k3",
       "price": 285.98
+    },
+    {
+      "name": "exemple",
+      "price": "123.2",
+      "id": 5
     }
   ]
 }

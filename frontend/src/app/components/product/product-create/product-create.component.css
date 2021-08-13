@@ -3,8 +3,13 @@ form {
   flex-direction: column;
 }
 
-.button {
+.save {
   margin: 15px 15px 0px 0px;
   background-color: #216de9;
   color: white;
+}
+
+.cancel {
+  color: #fff;
+  background-color: #e35e6b;
 }
